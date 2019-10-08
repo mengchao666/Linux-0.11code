@@ -18,4 +18,4 @@ Linux系统目前发展的如火如荼不管是在嵌入式领域，还是服务
 
 下载最新的内核请到这里下载[https://www.kernel.org/](https://www.kernel.org/)
 
-下载1.0之前内核请到这里下载[http://www.oldlinux.org/Linux.old/](http://www.oldlinux.org/Linux.old/)
+下载1.0之前内核可以到这赵炯博士维护的网站下载[http://www.oldlinux.org/Linux.old/](http://www.oldlinux.org/Linux.old/)
