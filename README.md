@@ -12,7 +12,7 @@ Linux系统目前发展的如火如荼不管是在嵌入式领域，还是服务
 ![](https://i.loli.net/2019/10/10/YXQ5gsItZhEqa9d.png)
 Linux中和sourceinsight差不多的软件名是kscope。
 
-这里我分享3.5版本的，内附激活码和汉化说明，需要的自行下载，3.5版本已经很稳定了，想要用4.0版本的请自行寻找。
+这里我分享source insight3.5版本的，内附激活码和汉化说明，需要的自行下载，https://pan.baidu.com/s/1IKf4ebN08i9LyohXNBhKxQ3.5版本已经很稳定了，想要用4.0版本的请自行寻找。
 
 使用方法：
 
