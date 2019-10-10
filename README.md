@@ -47,16 +47,3 @@ Linux中和sourceinsight差不多的软件名是kscope。
 下载最新的内核请到这里下载[https://www.kernel.org/](https://www.kernel.org/)
 
 下载1.0之前内核可以到这赵炯博士维护的网站下载[http://www.oldlinux.org/Linux.old/](http://www.oldlinux.org/Linux.old/)
-
-# 教程
-阅读Linux内核0.11的教程肯定要有赵炯博士写的书啦。《Linux内核完全注释》。
-
-基于0.11内核《Linux内核完全注释：基于0.11内核(修正版V3.0)》下载链接https://pan.baidu.com/s/19HHrlhcZXyE2GybhRlEHkA
-
-基于0.12内核 2019年最新修正版本《Linux内核完全注释：基于0.12内核(V5.0)》下载链接https://pan.baidu.com/s/1wdoPCeL1cW1nWisw9yrGZg
-
-# 更多内核版本
-
-下载最新的内核请到这里下载[https://www.kernel.org/](https://www.kernel.org/)
-
-下载1.0之前内核可以到这赵炯博士维护的网站下载[http://www.oldlinux.org/Linux.old/](http://www.oldlinux.org/Linux.old/)
