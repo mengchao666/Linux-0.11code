@@ -15,6 +15,9 @@ Linux系统目前发展的如火如荼不管是在嵌入式领域，还是服务
 
 基于0.12内核 2019年最新修正版本《Linux内核完全注释：基于0.12内核(V5.0)》下载链接https://pan.baidu.com/s/1wdoPCeL1cW1nWisw9yrGZg
 
+还有新设计团队写的《图解Linux内核设计的艺术》
+下载链接：https://pan.baidu.com/s/1E0E7wv2MUkhjpbja2nhtzw
+
 ## 更多内核版本
 
 下载最新的内核请到这里下载[https://www.kernel.org/](https://www.kernel.org/)
