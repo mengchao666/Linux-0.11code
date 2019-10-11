@@ -7,6 +7,20 @@ Linux系统目前发展的如火如荼不管是在嵌入式领域，还是服务
 
 而且源码面前，了无秘密。相信在读懂源码之后可以对自己的知识能力和解决问题的能力可以更上一层楼，更了解操作系统的原理与设计，深入理解底层的机制，这绝对是内功。
 
+
+## 教程
+阅读Linux内核0.11的教程肯定要有赵炯博士写的书啦。《Linux内核完全注释》。
+
+基于0.11内核《Linux内核完全注释：基于0.11内核(修正版V3.0)》下载链接https://pan.baidu.com/s/19HHrlhcZXyE2GybhRlEHkA
+
+基于0.12内核 2019年最新修正版本《Linux内核完全注释：基于0.12内核(V5.0)》下载链接https://pan.baidu.com/s/1wdoPCeL1cW1nWisw9yrGZg
+
+## 更多内核版本
+
+下载最新的内核请到这里下载[https://www.kernel.org/](https://www.kernel.org/)
+
+下载1.0之前内核可以到这赵炯博士维护的网站下载[http://www.oldlinux.org/Linux.old/](http://www.oldlinux.org/Linux.old/)
+
 ## 工具
 分析Linux内核这种大型项目在Windows下用sourceinsight是很方便的,比如一个文件中使用了另一个文件中的变量，可以方便的查看这个文件中定义的变量来自哪个文件，变量的值是多少，哪里定义的宏定义等等很多优点，如果你用过，你肯定会赞同这句话的。如果没用过，可以使用一下，分析这种大型项目这个工具肯定会让你爱不释手的。
 ![](https://i.loli.net/2019/10/10/YXQ5gsItZhEqa9d.png)
@@ -28,15 +42,3 @@ Linux中和sourceinsight差不多的软件名是kscope。
 
 (5)解决了4中的问题然后再次添加文件。菜单栏　Project->Add and Remove Project Files 再次浏览目录下，再次add tree，发现添加了额外的19个文件。
 
-## 教程
-阅读Linux内核0.11的教程肯定要有赵炯博士写的书啦。《Linux内核完全注释》。
-
-基于0.11内核《Linux内核完全注释：基于0.11内核(修正版V3.0)》下载链接https://pan.baidu.com/s/19HHrlhcZXyE2GybhRlEHkA
-
-基于0.12内核 2019年最新修正版本《Linux内核完全注释：基于0.12内核(V5.0)》下载链接https://pan.baidu.com/s/1wdoPCeL1cW1nWisw9yrGZg
-
-## 更多内核版本
-
-下载最新的内核请到这里下载[https://www.kernel.org/](https://www.kernel.org/)
-
-下载1.0之前内核可以到这赵炯博士维护的网站下载[http://www.oldlinux.org/Linux.old/](http://www.oldlinux.org/Linux.old/)
