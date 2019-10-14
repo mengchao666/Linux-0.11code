@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/stars/mengchaobbbigrui/Linux-0.11code)![](https://img.shields.io/github/forks/mengchaobbbigrui/Linux-0.11code)![](https://img.shields.io/github/issues/mengchaobbbigrui/Linux-0.11code)
 ## Linux0.11
 **“RTFSC – Read The Fucking Source Code :)!”               –Linus Benedict Torvalds**
 
